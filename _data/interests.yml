@@ -1,0 +1,13 @@
+en-gb:
+- name: Videography
+  description: "For the art of capturing moments and emotions;
+  using filmmaking gear such mirror-less cameras, drones, gimbals, audio equipment, video editing software and so on."
+  fa-logo: video-camera
+- name: Research
+  description: "Applying my background knowledge in computational physics in the field of
+  climate change, physical oceanography, geomatics, image processing and acoustic engineering."
+  fa-logo: search
+- name: Development
+  description:  "Developing workflows, processing pipelines, visualisations,
+  automation using various programming languages and software to support my works."
+  fa-logo: code

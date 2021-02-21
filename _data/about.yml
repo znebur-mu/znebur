@@ -1,0 +1,16 @@
+# Team names, titles and social links
+people:
+- name: ZNeBur
+  pic: 1
+  title: "Freelance artist, developer, researcher and videographer"
+  about: |+
+          I'm a freelance artist, videographer, developer, and researcher from Mauritius 🇲🇺.<br/>
+          Holder of a BSc Degree in Physics with computing from the University of Mauritius,<br/>
+          I'm passionate about applying my knowledge to key topics such as
+          climate change,<br/>
+          physical oceanography, image/video processing and acoustic engineering.
+  social:
+    - title: instagram
+      url: https://www.instagram.com/zne.bur/
+    - title: youtube
+      url: https://www.youtube.com/channel/UC1n7aDvxjD2eXYTsf8L6GrA
