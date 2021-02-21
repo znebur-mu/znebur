@@ -1,0 +1,11 @@
+url:
+baseurl:
+
+# Site settings
+title: ZNeBur
+description: "ZNeBur"
+header-img: "img/og_image.jpg"
+
+# Build settings
+markdown: kramdown
+permalink: pretty

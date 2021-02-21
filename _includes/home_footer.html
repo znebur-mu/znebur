@@ -1,0 +1,17 @@
+  <!-- <footer> -->
+  <div class="row social-buttons">
+    <div class="col-md-auto ">
+      <ul class="list-inline social-buttons">
+        {% for network in site.data.networks.social %}
+        <li><a href="{{ network.url }}"><i class="fa fa-{{ network.title }}"></i></a>
+        </li>
+        {% endfor %}
+      </ul>
+    </div>
+  </div>
+  <div class="row copyright">
+    <div class="col-md-auto">
+      <span class="copyright">Copyright &copy; {{ site.title }} {{ 'now' | date: "%Y" }}</span>
+    </div>
+  </div>
+  <!-- </footer> -->
